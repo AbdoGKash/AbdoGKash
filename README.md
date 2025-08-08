@@ -2,11 +2,11 @@
 
 * ## Flutter Developer
 
-* · Flutter Developer with strong background in cross-platform mobile app development using
-*  Flutter and Dart. My skills include UI development and Problem-Solving, I have successfully
-*  eveloped several applications using Flutter.
-* · I am a true team player with strengths in adaptability, communication, and accuracy.
-* My objective is simply to be the best developer that I can be and to contribute to the technology
+* Flutter Developer with strong background in cross-platform mobile app development using
+Flutter and Dart. My skills include UI development and Problem-Solving, I have successfully
+veloped several applications using Flutter.
+* I am a true team player with strengths in adaptability, communication, and accuracy.
+My objective is simply to be the best developer that I can be and to contribute to the technology
 
 
 <!---
