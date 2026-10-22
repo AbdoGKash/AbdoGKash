@@ -1,6 +1,18 @@
 # 💫 About Me:
-Flutter Developer with 2+ years of hands-on experience in developing cross-platform mobile and desktop applications using Flutter and Dart.<br>Proficient in state management (BLoC, Riverpod, Provider, GetX), RESTful API integration, and backend services with Firebase and Supabase. Skilled in managing local databases, applying clean architecture principles, and designing responsive UI/UX.<br>Passionate about performance optimization using Flutter DevTools and solving complex technical challenges through strong analytical and problem-solving skills.
+Flutter Developer with 2+ years of hands-on experience in developing cross-platform mobile and desktop applications using Flutter and Dart.
+Proficient in state management (BLoC, Riverpod, Provider, GetX), RESTful API integration, and backend services with Firebase and Supabase. Skilled in managing local databases, applying clean architecture principles, and designing responsive UI/UX.
+Passionate about performance optimization using Flutter DevTools and solving complex technical challenges through strong analytical and problem-solving skills.
 
+## Skills : 
+Mobile Development, Flutter, Dart
+State Management: BLoC, Cubit, Riverpod, Provider, GetX
+Architecture: Clean Architecture, MVVM, MVC
+RESTful APIs, Firebase, Supabase
+Hive, SQLite, Flutter DevTools, Testing, Payment Gateway Integration (Paymob)
+Object-Oriented Programming (OOP) , SOLID Principles, Design Patterns
+Data Structures & Algorithms, Problem Solving
+Tools & Workflow : Git, GitHub, GitHub Actions (CI/CD), JIRA, Trello
+AI Coding Tools (Copilot, Cursor, ...)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdo-kashkoush-1301612a3/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@abdog.kashkosh8885) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=abdokashkosh456@gmail.com)
